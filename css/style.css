@@ -2424,7 +2424,7 @@ textarea.form-control {
   padding-top: 0 !important; }
 
 .ftco-no-pb {
-  padding-bottom: 10 !important; }
+  padding-bottom: 0 !important; }
 
 .ftco-footer {
   font-size: 16px;
@@ -2931,4 +2931,8 @@ textarea.form-control {
 
 .container-fluid {
   padding: 0!important;
+}
+
+.resume_section {
+  background-color: #ecf0ff;
 }
