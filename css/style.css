@@ -2936,3 +2936,9 @@ textarea.form-control {
 .resume_section {
   background-color: #ecf0ff;
 }
+
+
+.contact-margin {
+  margin: auto !important;
+  height: 285px;
+}
